@@ -280,7 +280,7 @@ footer {
 	.main-visual-subtext {
 		font-size: 18px;
 	}
-	
+
 	/* mainに関するレスポンシブ対応 */
 	.sp-none {
 		display: none;
@@ -309,7 +309,7 @@ footer {
 		padding: 90px 5%;
 		margin: 0 auto;
 	}
-		.strength-group {
+	.strength-group {
 		float: none;
 		width: 100%;
 	}
@@ -353,7 +353,7 @@ footer {
 		padding: 90px 5%;
 		margin: 0 5%;
 	}
-		.contact-width {
+	.contact-width {
 		width: 100%;
 	}
 	.contact-tool {
